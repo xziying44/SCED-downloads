@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "01df52",
+  "Nickname": "一失色(版本一)",
+  "CardID": 4643416,
+  "GMNotes": "{\n  \"id\": \"09596\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "46434": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16397647130296700909/984F1672851AE98B23F23A58251DF210D752F45D/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15711106532833503961/81CA6495C29562356DDB2F9ECB30CBC4741A630D/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

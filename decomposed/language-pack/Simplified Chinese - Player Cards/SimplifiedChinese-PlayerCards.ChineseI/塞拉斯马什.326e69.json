@@ -1,12 +1,12 @@
 {
-  "CardID": 1159504,
+  "CardID": 6584604,
   "CustomDeck": {
-    "11595": {
+    "65846": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13197190622742974115/1A8312ED8A7ECCCE1C9D57D45D49E2C60DD63257/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15174426525671633134/C2D6ABBE91BEFDF52A630214A88DFB08484A6C58/",
-      "NumHeight": 1,
-      "NumWidth": 5,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16258701488008047044/A75F86C2E2AF1E99CA333FDC667D276FC26C79C9/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16821904342579539549/0737EEAF2E7561AA31494522202C7134FD0F808F/",
+      "NumHeight": 3,
+      "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }

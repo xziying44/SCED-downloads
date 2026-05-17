@@ -1,0 +1,14 @@
+{
+  "Name": "Custom_Model_Bag",
+  "GUID": "98b57c",
+  "Nickname": "剧本卡/07_印斯茅斯的阴谋 -> TheInnsmouthConspiracy.98b57c",
+  "ContainedObjects_order": [
+    "伊哈·恩斯雷雕塑.2ad6d9"
+  ],
+  "ContainedObjects_path": "TheInnsmouthConspiracy.98b57c",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

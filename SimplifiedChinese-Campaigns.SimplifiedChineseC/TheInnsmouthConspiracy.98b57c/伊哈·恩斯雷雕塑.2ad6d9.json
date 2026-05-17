@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "2ad6d9",
+  "Nickname": "🏅伊哈·恩斯雷雕塑",
+  "CardID": 8960218,
+  "GMNotes": "{\n  \"id\": \"07300\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "89602": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16205563519865065010/33F757038A6515341378268329069DFA52D93825/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9467429545291502720/D933D06671A51A2E2CF30D1A6A35E8DDD1E19ACD/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

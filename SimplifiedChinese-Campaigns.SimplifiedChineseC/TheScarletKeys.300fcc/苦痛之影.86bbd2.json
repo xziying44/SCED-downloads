@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "86bbd2",
+  "Nickname": "苦痛之影",
+  "CardID": 4304805,
+  "GMNotes": "{\n  \"id\": \"09660\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "43048": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13993652924654606213/E7CE9A0FD22247BF24275DE55A95793EA5689E1C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9864245820875219156/DAD10295634E6C855ABE5E65718B7DBEDED77F75/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

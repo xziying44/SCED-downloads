@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "70ada1",
+  "Nickname": "疯星乱舞",
+  "CardID": 4643411,
+  "GMNotes": "{\n  \"id\": \"09591\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "46434": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16397647130296700909/984F1672851AE98B23F23A58251DF210D752F45D/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15711106532833503961/81CA6495C29562356DDB2F9ECB30CBC4741A630D/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

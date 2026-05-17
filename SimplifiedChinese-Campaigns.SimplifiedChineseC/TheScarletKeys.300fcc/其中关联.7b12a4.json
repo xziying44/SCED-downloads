@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "7b12a4",
+  "Nickname": "其中关联",
+  "CardID": 5695507,
+  "GMNotes": "{\n  \"id\": \"09504\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "56955": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10834613190567307716/1EC4E67E8968259C6DEF7500CF147E0D85B50F3C/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16198813765064865569/68F20E2D2432C946AC4D33990B9CC8AE9EF98892/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "3b500d",
+  "Nickname": "证券交易所",
+  "CardID": 9291023,
+  "GMNotes": "{\n  \"id\": \"09644\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "92910": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15016571898779053228/02E3EC900B7080CDACC2FC6EF10094827F80968B/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11675898074590299440/D9C8A2B441CF3D25F231FA039BD3E7B5F6DC0D36/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}

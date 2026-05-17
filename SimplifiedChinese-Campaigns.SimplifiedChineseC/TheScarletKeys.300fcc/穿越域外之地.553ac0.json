@@ -1,0 +1,23 @@
+{
+  "Name": "Card",
+  "GUID": "553ac0",
+  "Nickname": "穿越域外之地",
+  "CardID": 8082100,
+  "GMNotes": "{\n  \"id\": \"09685\"\n}",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "CustomDeck": {
+    "80821": {
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11876886875149663588/786D6505C27D89FEFC65EE16C66A4F59BBB014E7/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11674540935376557172/C5557E08C00B030E641732EDF3C9776AF642316F/",
+      "NumWidth": 10,
+      "NumHeight": 3,
+      "Type": 0,
+      "UniqueBack": true,
+      "BackIsHidden": true
+    }
+  }
+}
